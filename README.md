@@ -26,6 +26,6 @@ This project is a customizable and responsive personal portfolio template. I mod
 You can get in touch with me through the **Contact Me** section on the website. When you fill out the form, your message will be sent directly to my email.
 
 - **Email:** sreejaanarayanan272@gmail.com
-- **GitHub:** [My GitHub Portfolio Repository](https://github.com/sr132/portfolio)
+- **GitHub:** [My GitHub Portfolio Repository](https://github.com/sr132/Portfolio)
 
 
